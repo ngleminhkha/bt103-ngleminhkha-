@@ -1,3 +1,3 @@
 # bt103-ngleminhkha-
-Họ&Tên: Nguyễn Lê Minh Kha
+Ho&Ten:Nguyen Le Minh Kha
 MSSV:106240335
